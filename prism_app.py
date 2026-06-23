@@ -102,7 +102,7 @@ with col3:
 
 pd_st.markdown("---")
 pd_st.markdown("### 💡 Pitch Guide Tip for the Judges:")
-pd_st.info(
+pd_st.info()
     "Click **'The Hidden Crisis'** on the sidebar. Show the judges how the Traditional System stays completely green "
     "because no single slider hit 80%. Then, point out how the PRISM AI immediately triggers a red alert because its "
     "Unsupervised Anomaly Model recognizes that all three tracking parameters rising together is statistically impossible on a normal day!"
